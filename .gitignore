@@ -41,4 +41,13 @@
 *.dwo
 
 # Custom
-*.cmake-build-debug
+/cmake-build-debug/
+
+# CLion default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
